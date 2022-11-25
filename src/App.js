@@ -10,7 +10,8 @@ function App() {
 
       </div>
      
-      <p> In process...</p>
+      <p> in process...</p>
+      
             
     </div>
   );
