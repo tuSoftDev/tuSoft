@@ -1,4 +1,4 @@
-
+import logo from './assets/logotu.png';
 import './App.css';
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div className="App-header">
 
       <div className="img-container">
-        <img src="./logotu.png" alt="logo" />
+        <img src={logo} alt="logo" />
 
       </div>
      
